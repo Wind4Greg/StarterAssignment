@@ -1,16 +1,16 @@
-**Student Name**:  Dr. Greg Bernstein
+**Student Name**:  Your Name Here!
 
-**NetID**: qd7373
+**NetID**: Your netId here (all lowercase)
 
 > The start of all your assignments must begin with your name and student id so I can give you credit for your "submission".
 
-# Assignment Outline for CS351
+# Assignment Outline for CS351/CS651
 
 The following is explanatory text and should be removed from any submissions.
 
 ## Introduction
 
-In CS351 and other web related classes that I teach we use GitHub as the mechanism to turn in assignments. Each student gets their own private GitHub repository that is shared with the instructor and possibly a TA or grader.
+In CS351, CS651, and other web related classes that I teach we use GitHub as the mechanism to turn in assignments, exams, etc. Each student gets their own private GitHub repository that is shared with the instructor and possibly a TA or grader.
 
 ## README.md
 
@@ -32,7 +32,7 @@ If the question has a subpart use a level 3 `###` heading in *markdown* which tr
 
 ### (b)
 
-Many times you'll be asked to suppy a screen shot of your work. You'll use a screen capture program and save in a `png` or similar format in a subdirectory of your repository. *Markdown* makes it easy to include images.
+Many times you'll be asked to suppy a screen shot of your work. You'll use a screen capture program and save in a `png` or similar format in a subdirectory of your repository. *Markdown* makes it easy to include images. Caution: Windows isn't picky about the "cases" of file names and file extensions, however other operating systems such as Linux are, and hence most remote repositories such as GitHub are. Make sure to be consistent with your file names and references in Markdown.
 
 Here is an example screen shot showing a browser window and developer tools:
 
